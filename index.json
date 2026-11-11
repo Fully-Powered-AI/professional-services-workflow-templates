@@ -1,0 +1,55 @@
+{
+  "repository": "Fully-Powered-AI/professional-services-capability-templates",
+  "title": "Professional Services",
+  "term": "industries/professional-services",
+  "capabilities": [
+    {
+      "id": "client-document-request-tracker",
+      "name": "Client document request tracker",
+      "version": "0.1.0",
+      "summary": "When a client sends its first batch of records, the engagement manager gets the request list brought up to date: each item and period marked received, incomplete, mentioned only or missing, plus a short follow-up draft. The manager judges what is sufficient and approves anything sent.",
+      "path": "client-document-request-tracker/",
+      "directory": "https://fullypowered.ai/capabilities/client-document-request-tracker/"
+    },
+    {
+      "id": "client-findings-validation-document",
+      "name": "Client findings validation document",
+      "version": "0.1.0",
+      "summary": "Before research becomes recommendations, the engagement lead sends the client one document: each material finding beside its evidence, the implication proposed and a clear request to confirm, correct or defer it. Nothing is added that the evidence does not show.",
+      "path": "client-findings-validation-document/",
+      "directory": "https://fullypowered.ai/capabilities/client-findings-validation-document/"
+    },
+    {
+      "id": "client-schedule-to-ledger-reconciliation",
+      "name": "Client schedule to ledger reconciliation",
+      "version": "0.1.0",
+      "summary": "When a client's subledger schedule and trial balance disagree, the responsible accountant gets one worksheet: both balances proved, every timing difference and unexplained entry listed, and the next step for each. Nothing is posted; every explanation waits for a person.",
+      "path": "client-schedule-to-ledger-reconciliation/",
+      "directory": "https://fullypowered.ai/capabilities/client-schedule-to-ledger-reconciliation/"
+    },
+    {
+      "id": "completed-engagement-file-review",
+      "name": "Completed engagement file review",
+      "version": "0.1.0",
+      "summary": "The quality partner gets a worksheet that tests finished engagement files against the firm's own checklist: each item linked to the engagement letter, workpaper or sign-off that answers it, with any open finding, and the missing evidence listed. The quality partner confirms findings and assigns remediation.",
+      "path": "completed-engagement-file-review/",
+      "directory": "https://fullypowered.ai/capabilities/completed-engagement-file-review/"
+    },
+    {
+      "id": "engagement-margin-review",
+      "name": "Engagement margin review",
+      "version": "0.1.0",
+      "summary": "Midway or at close, the partner and finance lead get one worksheet for an engagement: recorded time, agreed fee, billed to date and supplied costs by workstream, the gaps that limit it, and the questions the team must answer. No cost rate is invented.",
+      "path": "engagement-margin-review/",
+      "directory": "https://fullypowered.ai/capabilities/engagement-margin-review/"
+    },
+    {
+      "id": "engagement-staffing-plan",
+      "name": "Engagement staffing plan",
+      "version": "0.1.0",
+      "summary": "When several engagements want the same people, the resource lead sees the collision before kickoff: role needs against free days, leave and competing assignments, week by week, with two or three staffing options. The resource lead and partners choose.",
+      "path": "engagement-staffing-plan/",
+      "directory": "https://fullypowered.ai/capabilities/engagement-staffing-plan/"
+    }
+  ]
+}

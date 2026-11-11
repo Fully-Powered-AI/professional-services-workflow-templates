@@ -1,0 +1,45 @@
+{
+  "id": "completed-engagement-file-review",
+  "name": "Completed engagement file review",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "The quality partner gets a worksheet that tests finished engagement files against the firm's own checklist: each item linked to the engagement letter, workpaper or sign-off that answers it, with any open finding, and the missing evidence listed. The quality partner confirms findings and assigns remediation.",
+  "directory": "https://fullypowered.ai/capabilities/completed-engagement-file-review/",
+  "primary_function": "functions/quality-management",
+  "functions": [
+    "functions/quality-management",
+    "functions/project-and-delivery"
+  ],
+  "industries": [
+    "industries/professional-services"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "audit-evidence-index",
+    "quality-management-review-pack",
+    "project-lessons-review"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of file inspection in professional services firms, written into a method for testing finished engagement files against a firm's checklist."
+    }
+  ]
+}

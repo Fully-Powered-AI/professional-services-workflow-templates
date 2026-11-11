@@ -1,0 +1,47 @@
+{
+  "id": "client-findings-validation-document",
+  "name": "Client findings validation document",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before research becomes recommendations, the engagement lead sends the client one document: each material finding beside its evidence, the implication proposed and a clear request to confirm, correct or defer it. Nothing is added that the evidence does not show.",
+  "directory": "https://fullypowered.ai/capabilities/client-findings-validation-document/",
+  "primary_function": "functions/project-and-delivery",
+  "functions": [
+    "functions/project-and-delivery",
+    "functions/customer-success-and-account-management"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/engineering-firms",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "customer-interview-synthesis",
+    "research-summary-brief",
+    "decision-log"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of professional services work, and its own working method for putting findings in front of a client before they become the plan."
+    }
+  ]
+}

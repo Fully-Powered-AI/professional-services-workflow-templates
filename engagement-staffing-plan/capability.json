@@ -1,0 +1,47 @@
+{
+  "id": "engagement-staffing-plan",
+  "name": "Engagement staffing plan",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When several engagements want the same people, the resource lead sees the collision before kickoff: role needs against free days, leave and competing assignments, week by week, with two or three staffing options. The resource lead and partners choose.",
+  "directory": "https://fullypowered.ai/capabilities/engagement-staffing-plan/",
+  "primary_function": "functions/project-and-delivery",
+  "functions": [
+    "functions/project-and-delivery",
+    "functions/operations-and-process-improvement"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/engineering-firms",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "project-intake-and-capacity-review",
+    "headcount-plan",
+    "scope-change-impact-review"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of professional-services work, and its own rules for prepared work: the supplied records as the only authority, every gap written as a question, and people who choose and approve."
+    }
+  ]
+}

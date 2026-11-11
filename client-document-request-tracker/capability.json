@@ -1,0 +1,47 @@
+{
+  "id": "client-document-request-tracker",
+  "name": "Client document request tracker",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When a client sends its first batch of records, the engagement manager gets the request list brought up to date: each item and period marked received, incomplete, mentioned only or missing, plus a short follow-up draft. The manager judges what is sufficient and approves anything sent.",
+  "directory": "https://fullypowered.ai/capabilities/client-document-request-tracker/",
+  "primary_function": "functions/project-and-delivery",
+  "functions": [
+    "functions/project-and-delivery",
+    "functions/customer-success-and-account-management"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/law-firms",
+    "industries/engineering-firms"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "reviewer-comments-resolution-list",
+    "client-status-update-preparation",
+    "project-handover-readiness-check"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of the work of keeping a client's records request up to date: matching each logged file to a requested item and period, counting only what is usable, keeping documents that are merely mentioned apart from documents that have arrived, and drafting a short follow-up for a manager to approve."
+    }
+  ]
+}
