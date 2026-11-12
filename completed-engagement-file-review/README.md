@@ -2,7 +2,7 @@
 
 The quality partner gets a worksheet that tests finished engagement files against the firm's own checklist: each item linked to the engagement letter, workpaper or sign-off that answers it, with any open finding, and the missing evidence listed. The quality partner confirms findings and assigns remediation.
 
-*Workflow template · Professional services · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/completed-engagement-file-review/)*
+*Workflow template · Professional services · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/completed-engagement-file-review/)*
 
 ## The outcome
 
@@ -81,9 +81,9 @@ Testing in your environment means running it on two or three finished files the 
 
 ## Related workflow templates
 
-- [Audit evidence index](https://fullypowered.ai/workflow templates/audit-evidence-index/)
-- [Quality management review pack](https://fullypowered.ai/workflow templates/quality-management-review-pack/)
-- [Project lessons review](https://fullypowered.ai/workflow templates/project-lessons-review/)
+- [Audit evidence index](https://fullypowered.ai/workflows/audit-evidence-index/)
+- [Quality management review pack](https://fullypowered.ai/workflows/quality-management-review-pack/)
+- [Project lessons review](https://fullypowered.ai/workflows/project-lessons-review/)
 
 ## Make it yours
 

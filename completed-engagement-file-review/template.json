@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "The quality partner gets a worksheet that tests finished engagement files against the firm's own checklist: each item linked to the engagement letter, workpaper or sign-off that answers it, with any open finding, and the missing evidence listed. The quality partner confirms findings and assigns remediation.",
-  "directory": "https://fullypowered.ai/workflow templates/completed-engagement-file-review/",
+  "directory": "https://fullypowered.ai/workflows/completed-engagement-file-review/",
   "primary_function": "functions/quality-management",
   "functions": [
     "functions/quality-management",

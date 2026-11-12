@@ -2,7 +2,7 @@
 
 When a client sends its first batch of records, the engagement manager gets the request list brought up to date: each item and period marked received, incomplete, mentioned only or missing, plus a short follow-up draft. The manager judges what is sufficient and approves anything sent.
 
-*Workflow template · Professional services · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/client-document-request-tracker/)*
+*Workflow template · Professional services · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-document-request-tracker/)*
 
 ## The outcome
 
@@ -77,9 +77,9 @@ Testing in your environment means running it on a past engagement whose deliveri
 
 ## Related workflow templates
 
-- [Reviewer comments into one resolution list](https://fullypowered.ai/workflow templates/reviewer-comments-resolution-list/)
-- [Client-status update preparation](https://fullypowered.ai/workflow templates/client-status-update-preparation/)
-- [Project handover readiness check](https://fullypowered.ai/workflow templates/project-handover-readiness-check/)
+- [Reviewer comments into one resolution list](https://fullypowered.ai/workflows/reviewer-comments-resolution-list/)
+- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/)
+- [Project handover readiness check](https://fullypowered.ai/workflows/project-handover-readiness-check/)
 
 ## Make it yours
 

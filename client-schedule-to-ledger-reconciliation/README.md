@@ -2,7 +2,7 @@
 
 When a client's subledger schedule and trial balance disagree, the responsible accountant gets one worksheet: both balances proved, every timing difference and unexplained entry listed, and the next step for each. Nothing is posted; every explanation waits for a person.
 
-*Workflow template · Professional services · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/client-schedule-to-ledger-reconciliation/)*
+*Workflow template · Professional services · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-schedule-to-ledger-reconciliation/)*
 
 ## The outcome
 
@@ -86,9 +86,9 @@ Testing in your environment means running it on a past month your team has alrea
 
 ## Related workflow templates
 
-- [Bank reconciliation preparation](https://fullypowered.ai/workflow templates/bank-reconciliation-preparation/)
-- [Receivables exception review](https://fullypowered.ai/workflow templates/receivables-exception-review/)
-- [Month-end close checklist](https://fullypowered.ai/workflow templates/month-end-close-checklist/)
+- [Bank reconciliation preparation](https://fullypowered.ai/workflows/bank-reconciliation-preparation/)
+- [Receivables exception review](https://fullypowered.ai/workflows/receivables-exception-review/)
+- [Month-end close checklist](https://fullypowered.ai/workflows/month-end-close-checklist/)
 
 ## Make it yours
 

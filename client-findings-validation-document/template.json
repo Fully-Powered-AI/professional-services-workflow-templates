@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before research becomes recommendations, the engagement lead sends the client one document: each material finding beside its evidence, the implication proposed and a clear request to confirm, correct or defer it. Nothing is added that the evidence does not show.",
-  "directory": "https://fullypowered.ai/workflow templates/client-findings-validation-document/",
+  "directory": "https://fullypowered.ai/workflows/client-findings-validation-document/",
   "primary_function": "functions/project-and-delivery",
   "functions": [
     "functions/project-and-delivery",

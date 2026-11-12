@@ -2,7 +2,7 @@
 
 Midway or at close, the partner and finance lead get one worksheet for an engagement: recorded time, agreed fee, billed to date and supplied costs by workstream, the gaps that limit it, and the questions the team must answer. No cost rate is invented.
 
-*Workflow template · Professional services · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/engagement-margin-review/)*
+*Workflow template · Professional services · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/engagement-margin-review/)*
 
 ## The outcome
 
@@ -78,9 +78,9 @@ Testing in your firm means running it on two or three finished engagements whose
 
 ## Related workflow templates
 
-- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflow templates/budget-versus-actual-variance-commentary/)
-- [Client billing summary](https://fullypowered.ai/workflow templates/client-billing-summary/)
-- [Month-end close checklist](https://fullypowered.ai/workflow templates/month-end-close-checklist/)
+- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/)
+- [Client billing summary](https://fullypowered.ai/workflows/client-billing-summary/)
+- [Month-end close checklist](https://fullypowered.ai/workflows/month-end-close-checklist/)
 
 ## Make it yours
 

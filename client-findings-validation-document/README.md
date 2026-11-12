@@ -2,7 +2,7 @@
 
 Before research becomes recommendations, the engagement lead sends the client one document: each material finding beside its evidence, the implication proposed and a clear request to confirm, correct or defer it. Nothing is added that the evidence does not show.
 
-*Workflow template · Professional services · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/client-findings-validation-document/)*
+*Workflow template · Professional services · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-findings-validation-document/)*
 
 ## The outcome
 
@@ -80,9 +80,9 @@ Testing in your environment means running it on an engagement you have already f
 
 ## Related workflow templates
 
-- [Customer interview synthesis](https://fullypowered.ai/workflow templates/customer-interview-synthesis/)
-- [Research summary brief](https://fullypowered.ai/workflow templates/research-summary-brief/)
-- [Decision log](https://fullypowered.ai/workflow templates/decision-log/)
+- [Customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/)
+- [Research summary brief](https://fullypowered.ai/workflows/research-summary-brief/)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/)
 
 ## Make it yours
 

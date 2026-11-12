@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When a client's subledger schedule and trial balance disagree, the responsible accountant gets one worksheet: both balances proved, every timing difference and unexplained entry listed, and the next step for each. Nothing is posted; every explanation waits for a person.",
-  "directory": "https://fullypowered.ai/workflow templates/client-schedule-to-ledger-reconciliation/",
+  "directory": "https://fullypowered.ai/workflows/client-schedule-to-ledger-reconciliation/",
   "primary_function": "functions/finance-and-accounting",
   "functions": [
     "functions/finance-and-accounting"

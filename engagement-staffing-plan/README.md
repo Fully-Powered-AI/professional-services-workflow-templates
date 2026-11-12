@@ -2,7 +2,7 @@
 
 When several engagements want the same people, the resource lead sees the collision before kickoff: role needs against free days, leave and competing assignments, week by week, with two or three staffing options. The resource lead and partners choose.
 
-*Workflow template · Professional services · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/engagement-staffing-plan/)*
+*Workflow template · Professional services · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/engagement-staffing-plan/)*
 
 ## The outcome
 
@@ -75,9 +75,9 @@ Testing in your environment means running it on a past quarter your resource lea
 
 ## Related workflow templates
 
-- [Project intake and capacity review](https://fullypowered.ai/workflow templates/project-intake-and-capacity-review/)
-- [Headcount plan](https://fullypowered.ai/workflow templates/headcount-plan/)
-- [Scope change impact review](https://fullypowered.ai/workflow templates/scope-change-impact-review/)
+- [Project intake and capacity review](https://fullypowered.ai/workflows/project-intake-and-capacity-review/)
+- [Headcount plan](https://fullypowered.ai/workflows/headcount-plan/)
+- [Scope change impact review](https://fullypowered.ai/workflows/scope-change-impact-review/)
 
 ## Make it yours
 
