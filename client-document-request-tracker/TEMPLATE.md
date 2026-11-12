@@ -1,6 +1,6 @@
 # Client document request tracker
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -12,7 +12,7 @@ Use it after the client's first upload and after each later delivery, once someo
 
 Do not use it:
 
-- to write the first request list. The engagement manager writes it from the engagement's scope; this capability tracks it;
+- to write the first request list. The engagement manager writes it from the engagement's scope; this workflow template tracks it;
 - to decide whether a received document is good enough, whether a balance is right, or what a document means for the work. Those are the engagement manager's judgments, and the update only reports what the logged facts show;
 - for a request that asks a client to release copies of a person's records to a third party. Records request preparation check handles that different piece of work, with its own authorization checks;
 - to sort the comments reviewers have made on a document. Reviewer comments resolution list handles that;

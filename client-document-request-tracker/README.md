@@ -2,7 +2,7 @@
 
 When a client sends its first batch of records, the engagement manager gets the request list brought up to date: each item and period marked received, incomplete, mentioned only or missing, plus a short follow-up draft. The manager judges what is sufficient and approves anything sent.
 
-*Capability template · Professional services · Project and delivery · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/client-document-request-tracker/)*
+*Workflow template · Professional services · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/client-document-request-tracker/)*
 
 ## The outcome
 
@@ -35,7 +35,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 ## Where it fits
 
 - [Professional services](https://fullypowered.ai/industries/professional-services/), where an engagement stalls until the client's records arrive and the manager is the one waiting.
-- [Law firms](https://fullypowered.ai/industries/law-firms/), where administrators keep track of which client records have arrived for a matter and which have not. The capability tracks arrivals only; it reads no file and does no legal work.
+- [Law firms](https://fullypowered.ai/industries/law-firms/), where administrators keep track of which client records have arrived for a matter and which have not. The workflow template tracks arrivals only; it reads no file and does no legal work.
 - [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), where a client's drawings, data and project records arrive in pieces over several weeks.
 - [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), which owns the dependencies a project cannot start without.
 - [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/), where asking a client for things clearly and politely is part of keeping the relationship in good order.
@@ -44,13 +44,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has to change for your company
 
-Decide who logs the incoming files and how soon after they arrive. Set the document names on your request lists and use the same names in the delivery log, because matching is by name. Decide which items are required and which are optional, and which have an expected total worth checking. Agree your file naming rule or leave it out. Choose how far ahead of a due date an item may be chased, and who in the client's team receives the follow-up. Decide who approves the draft and how it is sent, which this capability leaves entirely to your people.
+Decide who logs the incoming files and how soon after they arrive. Set the document names on your request lists and use the same names in the delivery log, because matching is by name. Decide which items are required and which are optional, and which have an expected total worth checking. Agree your file naming rule or leave it out. Choose how far ahead of a due date an item may be chased, and who in the client's team receives the follow-up. Decide who approves the draft and how it is sent, which this workflow template leaves entirely to your people.
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, and the record is published with it. Any edits made after the trial have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, and the record is published with it. Any edits made after the trial have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past engagement whose deliveries you remember, plus hard cases written in advance, each with its expected result: a file for the wrong year, a statement that stops partway through a month, a file that will not open, a document the client says it has sent that is not in the log, a total that differs from the expected one, and a list with a renamed column. The engagement manager checks every state against the files before anyone relies on the update. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [Client status update preparation](https://fullypowered.ai/capabilities/client-status-update-preparation/) turns an updated list into the note a client receives.
+Testing in your environment means running it on a past engagement whose deliveries you remember, plus hard cases written in advance, each with its expected result: a file for the wrong year, a statement that stops partway through a month, a file that will not open, a document the client says it has sent that is not in the log, a total that differs from the expected one, and a list with a renamed column. The engagement manager checks every state against the files before anyone relies on the update. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [Client status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/) turns an updated list into the note a client receives.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -61,11 +61,11 @@ Testing in your environment means running it on a past engagement whose deliveri
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -75,12 +75,12 @@ Testing in your environment means running it on a past engagement whose deliveri
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Reviewer comments into one resolution list](https://fullypowered.ai/capabilities/reviewer-comments-resolution-list/)
-- [Client-status update preparation](https://fullypowered.ai/capabilities/client-status-update-preparation/)
-- [Project handover readiness check](https://fullypowered.ai/capabilities/project-handover-readiness-check/)
+- [Reviewer comments into one resolution list](https://fullypowered.ai/workflow templates/reviewer-comments-resolution-list/)
+- [Client-status update preparation](https://fullypowered.ai/workflow templates/client-status-update-preparation/)
+- [Project handover readiness check](https://fullypowered.ai/workflow templates/project-handover-readiness-check/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

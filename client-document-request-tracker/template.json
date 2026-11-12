@@ -1,10 +1,10 @@
 {
   "id": "client-document-request-tracker",
   "name": "Client document request tracker",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When a client sends its first batch of records, the engagement manager gets the request list brought up to date: each item and period marked received, incomplete, mentioned only or missing, plus a short follow-up draft. The manager judges what is sufficient and approves anything sent.",
-  "directory": "https://fullypowered.ai/capabilities/client-document-request-tracker/",
+  "directory": "https://fullypowered.ai/workflow templates/client-document-request-tracker/",
   "primary_function": "functions/project-and-delivery",
   "functions": [
     "functions/project-and-delivery",

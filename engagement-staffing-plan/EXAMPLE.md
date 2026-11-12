@@ -1,6 +1,6 @@
 # Engagement staffing plan: an invented example
 
-*Illustrative example with invented data.* The firm, the people, the engagements, the dates and the days below are all invented. The firm is an invented advisory firm with two senior consultants qualified for process review and a partner with a few days a week for review. First come the inputs the resource lead supplied, in full, then the plan the capability returned.
+*Illustrative example with invented data.* The firm, the people, the engagements, the dates and the days below are all invented. The firm is an invented advisory firm with two senior consultants qualified for process review and a partner with a few days a week for review. First come the inputs the resource lead supplied, in full, then the plan the workflow template returned.
 
 ## The inputs
 

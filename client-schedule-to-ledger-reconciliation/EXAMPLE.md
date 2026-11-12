@@ -1,6 +1,6 @@
 # Client schedule to ledger reconciliation: an invented example
 
-*Illustrative example with invented data.* The client, the customers, the people, the documents and the figures below are all invented. Client X is an invented 40-person furniture maker whose accounts are kept by an invented outsourced accounting practice. Its receivables schedule for October does not agree to the trial balance. First come the inputs the practice supplied, in full, then the worksheet the capability returned.
+*Illustrative example with invented data.* The client, the customers, the people, the documents and the figures below are all invented. Client X is an invented 40-person furniture maker whose accounts are kept by an invented outsourced accounting practice. Its receivables schedule for October does not agree to the trial balance. First come the inputs the practice supplied, in full, then the worksheet the workflow template returned.
 
 ## The inputs
 

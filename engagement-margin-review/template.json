@@ -1,10 +1,10 @@
 {
   "id": "engagement-margin-review",
   "name": "Engagement margin review",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Midway or at close, the partner and finance lead get one worksheet for an engagement: recorded time, agreed fee, billed to date and supplied costs by workstream, the gaps that limit it, and the questions the team must answer. No cost rate is invented.",
-  "directory": "https://fullypowered.ai/capabilities/engagement-margin-review/",
+  "directory": "https://fullypowered.ai/workflow templates/engagement-margin-review/",
   "primary_function": "functions/finance-and-accounting",
   "functions": [
     "functions/finance-and-accounting",

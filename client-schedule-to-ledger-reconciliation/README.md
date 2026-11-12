@@ -2,11 +2,11 @@
 
 When a client's subledger schedule and trial balance disagree, the responsible accountant gets one worksheet: both balances proved, every timing difference and unexplained entry listed, and the next step for each. Nothing is posted; every explanation waits for a person.
 
-*Capability template · Professional services · Finance and accounting · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/client-schedule-to-ledger-reconciliation/)*
+*Workflow template · Professional services · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/client-schedule-to-ledger-reconciliation/)*
 
 ## The outcome
 
-A client sends a receivables or payables schedule, and the control account in its trial balance shows a different figure. The usual response is an afternoon of ticking one list against the other. This capability does the matching first and shows the result as a worksheet.
+A client sends a receivables or payables schedule, and the control account in its trial balance shows a different figure. The usual response is an afternoon of ticking one list against the other. This workflow template does the matching first and shows the result as a worksheet.
 
 The worksheet proves each side to its own source before comparing them. It then splits the difference into what is explained by timing, such as an invoice the subledger holds and the ledger posted after the reporting date, and what has no explanation yet, such as a manual journal with no schedule entry behind it, or an amount that differs between the two. Each item carries its evidence, what the client has said about it, and the step that would settle it. If the items do not add up to the difference, the remainder is shown, and nothing is added to hide it.
 
@@ -45,7 +45,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the reconciliation has lived with one careful person and should be repeatable by anyone.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when transaction volume outgrows the hand-tick method.
 
-It stays apart from [bank reconciliation preparation](https://fullypowered.ai/capabilities/bank-reconciliation-preparation/), which agrees the books to a bank statement, and from [receivables exception review](https://fullypowered.ai/capabilities/receivables-exception-review/), which decides what to do with individual receipts. This one agrees a client's subledger schedule to its own ledger.
+It stays apart from [bank reconciliation preparation](https://fullypowered.ai/workflows/bank-reconciliation-preparation/), which agrees the books to a bank statement, and from [receivables exception review](https://fullypowered.ai/workflows/receivables-exception-review/), which decides what to do with individual receipts. This one agrees a client's subledger schedule to its own ledger.
 
 ## What has to change for your company
 
@@ -57,9 +57,9 @@ It stays apart from [bank reconciliation preparation](https://fullypowered.ai/ca
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. The points that run found open were settled the same day, after an independent review, without a rerun; the record lists them. A second review's small changes were made later the same day, also without a rerun. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. The points that run found open were settled the same day, after an independent review, without a rerun; the record lists them. A second review's small changes were made later the same day, also without a rerun. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past month your team has already reconciled by hand, plus hard cases written in advance, each with the expected result: a schedule that does not add to its stated total, a posting dated after the reporting date, a manual journal with no support, two digits swapped in an amount, a file with a heading it does not recognize. The responsible accountant compares every figure with the signed reconciliation before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past month your team has already reconciled by hand, plus hard cases written in advance, each with the expected result: a schedule that does not add to its stated total, a posting dated after the reporting date, a manual journal with no support, two digits swapped in an amount, a file with a heading it does not recognize. The responsible accountant compares every figure with the signed reconciliation before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -70,11 +70,11 @@ Testing in your environment means running it on a past month your team has alrea
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -84,12 +84,12 @@ Testing in your environment means running it on a past month your team has alrea
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Bank reconciliation preparation](https://fullypowered.ai/capabilities/bank-reconciliation-preparation/)
-- [Receivables exception review](https://fullypowered.ai/capabilities/receivables-exception-review/)
-- [Month-end close checklist](https://fullypowered.ai/capabilities/month-end-close-checklist/)
+- [Bank reconciliation preparation](https://fullypowered.ai/workflow templates/bank-reconciliation-preparation/)
+- [Receivables exception review](https://fullypowered.ai/workflow templates/receivables-exception-review/)
+- [Month-end close checklist](https://fullypowered.ai/workflow templates/month-end-close-checklist/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

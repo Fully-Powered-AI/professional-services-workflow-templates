@@ -1,6 +1,6 @@
 # Client document request tracker: an invented example
 
-*Illustrative example with invented data.* The firm, the client, the people, the files and every figure below are invented. The firm is an invented 40-person accounting and advisory practice. Its client, called Client A here, is an invented regional distributor. The engagement manager is waiting on Client A's records for the third quarter of 2026, and the client has just uploaded its first batch. People are named by role. First come the inputs, in full, then the update the capability returned. The update is the recorded run in `trial.md` with a few findings and decisions worded a little more fully for reading; the states, counts and figures are the same.
+*Illustrative example with invented data.* The firm, the client, the people, the files and every figure below are invented. The firm is an invented 40-person accounting and advisory practice. Its client, called Client A here, is an invented regional distributor. The engagement manager is waiting on Client A's records for the third quarter of 2026, and the client has just uploaded its first batch. People are named by role. First come the inputs, in full, then the update the workflow template returned. The update is the recorded run in `trial.md` with a few findings and decisions worded a little more fully for reading; the states, counts and figures are the same.
 
 ## The inputs
 

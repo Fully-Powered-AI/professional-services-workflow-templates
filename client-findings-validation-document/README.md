@@ -2,7 +2,7 @@
 
 Before research becomes recommendations, the engagement lead sends the client one document: each material finding beside its evidence, the implication proposed and a clear request to confirm, correct or defer it. Nothing is added that the evidence does not show.
 
-*Capability template · Professional services · Project and delivery · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/client-findings-validation-document/)*
+*Workflow template · Professional services · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/client-findings-validation-document/)*
 
 ## The outcome
 
@@ -25,7 +25,7 @@ The client sponsor, or whoever the decision brief names as the person who decide
 - **Optional settings:** which words count as strong quantity words, how many interviews must stand behind them, and the wording of the three replies. Defaults are built in.
 - **For the second run only:** the client's written replies, by finding, with who gave them and when, together with the same decision brief, register and findings again.
 
-The capability reads only what is supplied. It does not search, contact anyone or open a system.
+The workflow template reads only what is supplied. It does not search, contact anyone or open a system.
 
 ## What comes out
 
@@ -43,7 +43,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the client has a view of its own operations that the team needs to hear.
 - [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more engagements run at once and the checking cannot rest on one lead's memory.
 
-It is separate from [customer interview synthesis](https://fullypowered.ai/capabilities/customer-interview-synthesis/), which draws themes from a stack of customer notes, and from [research summary brief](https://fullypowered.ai/capabilities/research-summary-brief/), which summarizes documents for a reader. This one takes findings that already exist and puts them to the client.
+It is separate from [customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/), which draws themes from a stack of customer notes, and from [research summary brief](https://fullypowered.ai/workflows/research-summary-brief/), which summarizes documents for a reader. This one takes findings that already exist and puts them to the client.
 
 ## What has to change for your company
 
@@ -51,9 +51,9 @@ Decide who counts as the client's decider for each kind of finding. Set what mak
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried twice on its invented example on 10 November 2026 in Claude (the second run was not independent), and the record of the second is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried twice on its invented example on 10 November 2026 in Claude (the second run was not independent), and the record of the second is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on an engagement you have already finished, with cases written in advance: a finding with one source behind it, a claim worded more strongly than its evidence, evidence that contradicts the finding, an interview marked not to be shown. The engagement lead checks every item against its source before anything is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up.
+Testing in your environment means running it on an engagement you have already finished, with cases written in advance: a finding with one source behind it, a claim worded more strongly than its evidence, evidence that contradicts the finding, an interview marked not to be shown. The engagement lead checks every item against its source before anything is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -64,11 +64,11 @@ Testing in your environment means running it on an engagement you have already f
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -78,12 +78,12 @@ Testing in your environment means running it on an engagement you have already f
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Customer interview synthesis](https://fullypowered.ai/capabilities/customer-interview-synthesis/)
-- [Research summary brief](https://fullypowered.ai/capabilities/research-summary-brief/)
-- [Decision log](https://fullypowered.ai/capabilities/decision-log/)
+- [Customer interview synthesis](https://fullypowered.ai/workflow templates/customer-interview-synthesis/)
+- [Research summary brief](https://fullypowered.ai/workflow templates/research-summary-brief/)
+- [Decision log](https://fullypowered.ai/workflow templates/decision-log/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

@@ -1,6 +1,6 @@
 # Completed engagement file review
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -17,7 +17,7 @@ Do not use it:
 - to draw lessons from how an engagement went (use the project lessons review);
 - to judge whether the work in a file is sound, whether an opinion was right or whether any engagement meets professional standards. Those are for the people who hold the responsibility;
 - to review the legal or technical substance of any matter or project. For a law firm it covers the administrative contents of a closed file only;
-- to design the checklist. The firm writes it; the capability tests files against it.
+- to design the checklist. The firm writes it; the workflow template tests files against it.
 
 ## Roles
 
