@@ -1,0 +1,45 @@
+{
+  "id": "earnings-adjustment-evidence-schedule",
+  "name": "Quality of earnings adjustment evidence schedule",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "When management proposes adjustments to a target's EBITDA, the deal team gets one schedule: each adjustment tied to its ledger entries, explanation and documents, with repeats, overlaps and gaps flagged and every gap written as a question. The engagement lead decides what is accepted.",
+  "directory": "https://fullypowered.ai/workflows/earnings-adjustment-evidence-schedule/",
+  "primary_function": "functions/finance-and-accounting",
+  "functions": [
+    "functions/finance-and-accounting"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/finance-and-investment"
+  ],
+  "situations": [
+    "situations/acquisitions-and-integration",
+    "situations/private-equity-and-portfolios"
+  ],
+  "related": [
+    "client-schedule-to-ledger-reconciliation",
+    "client-document-request-tracker",
+    "client-findings-validation-document"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-11",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of the work, written from how deal teams tie a target's proposed earnings adjustments to the ledger, management's explanations and supporting documents. No third-party text."
+    }
+  ]
+}

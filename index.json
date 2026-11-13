@@ -36,6 +36,14 @@
       "directory": "https://fullypowered.ai/workflows/completed-engagement-file-review/"
     },
     {
+      "id": "earnings-adjustment-evidence-schedule",
+      "name": "Quality of earnings adjustment evidence schedule",
+      "version": "0.1.0",
+      "summary": "When management proposes adjustments to a target's EBITDA, the deal team gets one schedule: each adjustment tied to its ledger entries, explanation and documents, with repeats, overlaps and gaps flagged and every gap written as a question. The engagement lead decides what is accepted.",
+      "path": "earnings-adjustment-evidence-schedule/",
+      "directory": "https://fullypowered.ai/workflows/earnings-adjustment-evidence-schedule/"
+    },
+    {
       "id": "engagement-margin-review",
       "name": "Engagement margin review",
       "version": "0.1.0",
