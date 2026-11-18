@@ -1,8 +1,10 @@
-# Fully Powered Workflow Templates: Professional Services
+# FullyPowered Workflow Templates: Professional Services
 
 Every engagement run the way your best manager runs one. These workflow templates are written for consulting, accounting and advisory firms. They prepare the tracking, reconciling and reviewing around an engagement from the firm's own records, and the firm's people make every call on scope, staffing and what goes to the client.
 
 This repository holds 7 workflow templates for the people who run engagements at a professional services firm. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+
+These templates are examples and a starting point, not a complete list of what a team can do. FullyPowered AI can build any workflow for your company, including one that runs several steps, in a [Workflow Sprint or a scoped implementation](https://fullypowered.ai/pricing/).
 
 ## The workflow templates
 
@@ -32,10 +34,10 @@ Each folder says exactly what was checked and when: who wrote it, that its sourc
 
 ## More workflow templates
 
-The [Fully Powered Workflows Directory](https://fullypowered.ai/workflows/) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
+The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
 
 For the work these templates come from, by area of the business and by task, see [AI workflow examples for professional services firms](https://fullypowered.ai/industries/professional-services/).
 
 ## Licence and credits
 
-MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [Fully Powered AI](https://fullypowered.ai/).
+MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/).

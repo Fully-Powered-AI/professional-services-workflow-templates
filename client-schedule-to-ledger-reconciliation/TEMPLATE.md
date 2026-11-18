@@ -214,4 +214,4 @@ Paste this block as custom instructions, followed by the output format above.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI from its own published map of the work. Tried once on its invented example in Claude on 10 November 2026; changed after an independent review the same day, and again after a second review (a period start setting, a sign convention setting, a run when the difference is within tolerance, and wording fixes), and not run again (see `public/trial.md`). Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. Tried once on its invented example in Claude on 10 November 2026; changed after an independent review the same day, and again after a second review (a period start setting, a sign convention setting, a run when the difference is within tolerance, and wording fixes), and not run again (see `public/trial.md`). Not yet tested in a client environment.

@@ -25,7 +25,7 @@
     "decision-log"
   ],
   "evidence": {
-    "written_by": "Fully Powered AI",
+    "written_by": "FullyPowered AI",
     "source_and_rights_reviewed": true,
     "editorially_reviewed": "2026-11-10",
     "package_format_valid": true,
@@ -41,7 +41,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's own published map of professional services work, and its own working method for putting findings in front of a client before they become the plan."
+      "title": "FullyPowered AI's own published map of professional services work, and its own working method for putting findings in front of a client before they become the plan."
     }
   ]
 }
