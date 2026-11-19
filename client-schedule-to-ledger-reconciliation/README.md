@@ -4,6 +4,8 @@ When a client's subledger schedule and trial balance disagree, the responsible a
 
 *Workflow template · Professional services · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-schedule-to-ledger-reconciliation/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/client-schedule-to-ledger-reconciliation/?from=gh-client-schedule-to-ledger-reconciliat)
+
 ## The outcome
 
 A client sends a receivables or payables schedule, and the control account in its trial balance shows a different figure. The usual response is an afternoon of ticking one list against the other. This workflow template does the matching first and shows the result as a worksheet.

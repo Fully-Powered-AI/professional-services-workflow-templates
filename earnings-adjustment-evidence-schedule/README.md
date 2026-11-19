@@ -4,6 +4,8 @@ When management proposes adjustments to a target's EBITDA, the deal team gets on
 
 *Workflow template · Professional services · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/earnings-adjustment-evidence-schedule/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/earnings-adjustment-evidence-schedule/?from=gh-earnings-adjustment-evidence-schedule)
+
 ## The outcome
 
 Management's list of adjustments arrives with a reported EBITDA, a higher adjusted figure and a folder of support. Before the team can form a view, someone has to tie each line to the ledger and the documents. This workflow template does that tying and lays it out as one schedule.

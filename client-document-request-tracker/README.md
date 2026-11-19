@@ -4,6 +4,8 @@ When a client sends its first batch of records, the engagement manager gets the 
 
 *Workflow template · Professional services · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-document-request-tracker/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/client-document-request-tracker/?from=gh-client-document-request-tracker)
+
 ## The outcome
 
 The engagement manager stops guessing what the client still owes. After every delivery, the request list shows each item for each period in one of four plain states. Received means a usable file matches the item and covers the whole period. Incomplete means something arrived but falls short, and the list says how: dates the files leave uncovered, a file that will not open, or a printed total that is not the figure the manager set. Mentioned only means the client has said a document exists or is on its way, but nothing has arrived. Missing means nothing has arrived and nothing has been said.

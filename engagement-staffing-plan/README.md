@@ -4,6 +4,8 @@ When several engagements want the same people, the resource lead sees the collis
 
 *Workflow template · Professional services · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/engagement-staffing-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/engagement-staffing-plan/?from=gh-engagement-staffing-plan)
+
 ## The outcome
 
 The clash between engagements shows up on a page weeks ahead, not in a corridor conversation in the week the work starts. For each role and qualification the page sets the days the committed engagements need beside the days the qualified people actually have free after leave, their current assignments and their review commitments. Where the two do not meet, it names the weeks, the days short and the engagements and bookings that are competing for the same people.

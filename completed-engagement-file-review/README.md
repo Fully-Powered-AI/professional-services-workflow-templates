@@ -4,6 +4,8 @@ The quality partner gets a worksheet that tests finished engagement files agains
 
 *Workflow template · Professional services · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/completed-engagement-file-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/completed-engagement-file-review/?from=gh-completed-engagement-file-review)
+
 ## The outcome
 
 A file inspection usually starts with a partner opening folders one by one and asking the same questions again: is the engagement letter here, is the planning memo signed, did anyone review this before it went out. This workflow template asks those questions of every selected file in the same order, from lists you supply, and hands back one worksheet.

@@ -4,6 +4,8 @@ Midway or at close, the partner and finance lead get one worksheet for an engage
 
 *Workflow template · Professional services · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/engagement-margin-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/engagement-margin-review/?from=gh-engagement-margin-review)
+
 ## The outcome
 
 The engagement partner and the finance lead sit down with the same page. For each workstream it shows the fee that was agreed, what has been billed, the hours that were budgeted and the hours recorded, and the costs of delivery the firm has supplied: its own cost rates for the time, expenses and subcontractors. Where hours or costs are running past the plan, or where effort is well ahead of billing, the page says so and asks the engagement manager the question that explains it.

@@ -4,6 +4,8 @@ Before research becomes recommendations, the engagement lead sends the client on
 
 *Workflow template · Professional services · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-findings-validation-document/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/client-findings-validation-document/?from=gh-client-findings-validation-document)
+
 ## The outcome
 
 The client sees what the team found, what it rests on and what the team proposes to do about it, in one place and in a fixed shape. Each finding ends in a plain request: confirm it, correct it, or defer it. Evidence that points the other way sits beside the finding, and anything the team has assumed and not yet shown is written down under it.
