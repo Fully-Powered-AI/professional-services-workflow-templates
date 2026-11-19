@@ -8,7 +8,7 @@ Match a client schedule to its trial balance, with timing differences and unexpl
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Professional services · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-schedule-to-ledger-reconciliation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-schedule-to-ledger-reconciliation&from=gh-client-schedule-to-ledger-reconciliat)*
@@ -43,7 +43,7 @@ One worksheet, in a fixed order: the source balances and the checks on them, the
 
 A good worksheet lets the accountant trace every figure to a line in one of the files and see why each item sits where it does.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -66,7 +66,7 @@ It stays apart from [bank reconciliation preparation](https://fullypowered.ai/wo
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. The points that run found open were settled the same day, after an independent review, without a rerun; the record lists them. A second review's small changes were made later the same day, also without a rerun. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example in Claude on 10 November 2026; the record is published with it. The points that run found open were settled the same day, after an independent review, without a rerun; the record lists them. A second review's small changes were made later the same day, also without a rerun. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past month your team has already reconciled by hand, plus hard cases written in advance, each with the expected result: a schedule that does not add to its stated total, a posting dated after the reporting date, a manual journal with no support, two digits swapped in an amount, a file with a heading it does not recognize. The responsible accountant compares every figure with the signed reconciliation before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-schedule-to-ledger-reconciliation&from=gh-client-schedule-to-ledger-reconciliat) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-schedule-to-ledger-reconciliation&from=gh-client-schedule-to-ledger-reconciliat) describes the record we keep.
 
@@ -74,13 +74,13 @@ Testing in your environment means running it on a past month your team has alrea
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

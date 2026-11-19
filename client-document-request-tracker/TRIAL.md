@@ -1,4 +1,4 @@
-# Trial: Client document request tracker, run on its invented example
+# Trial: Client document request tracker, run on its example
 
 - **Product:** Claude, run in Claude Code
 
@@ -6,7 +6,7 @@ Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). The assistant that ran th
 
 Date: 2026-11-10
 
-The inputs are the invented example in `public/example.md` (an invented accounting practice and its invented client, Client A). No client data was used.
+The inputs are the example in `public/example.md` (an illustrative accounting practice and its illustrative client, Client A). No client data was used.
 
 ## Inputs used
 

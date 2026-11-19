@@ -6,7 +6,7 @@ Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5).
 
 Date: 2026-11-10
 
-The inputs were the invented example in `public/example.md` (settings, checklist, three engagements, file index and findings log, sections 1 to 5). No client data was used. The model was given the template's instruction block and output format, and the inputs only. It did not read the example's output until after it had produced its own. It did not write the template. It worked by hand from the text, with no tool to link rows, so the counts below are its own arithmetic.
+The inputs were the example in `public/example.md` (settings, checklist, three engagements, file index and findings log, sections 1 to 5). No client data was used. The model was given the template's instruction block and output format, and the inputs only. It did not read the example's output until after it had produced its own. It did not write the template. It worked by hand from the text, with no tool to link rows, so the counts below are its own arithmetic.
 
 ## What came out
 
@@ -207,8 +207,8 @@ This worksheet, built from the lists supplied for Q4 2026 file inspection, shows
 - **Own sign-off on a signoff row.** Where `prepared_by` is blank, which is every signoff row in the example, the rule cannot fire. This is correct by the text but is nowhere stated, and a reader may wonder if it was skipped.
 - **Own sign-off versus a client signer.** Nothing says what to do when the signer is outside the firm, as on engagement letters. It did not matter here.
 - **Decision 3** asks for "engagement id and reference", with no kind; the example gives a bare reference and this run added the kind.
-- **Version notes and the acceptance tests** still say the template has not been tried; they will need a line saying it has now been tried once on its invented example.
-- **Limits of this trial:** one run, one model, one product, on a small invented set. Only some of the fifteen proposed acceptance tests are exercised by the example (missing letter, absent sign-off, own sign-off, after-completion, two rows, non-applicable item, open and closed finding, unlinked finding, blank `applies_to`). The stop conditions, declined requests, blank completion date and renamed header were not tried. The model held the whole task in its head and could not check its arithmetic with a tool; it agreed with the example, but a longer file index would be more error-prone.
+- **Version notes and the acceptance tests** still say the template has not been tried; they will need a line saying it has now been tried once on its example.
+- **Limits of this trial:** one run, one model, one product, on a small sample set. Only some of the fifteen proposed acceptance tests are exercised by the example (missing letter, absent sign-off, own sign-off, after-completion, two rows, non-applicable item, open and closed finding, unlinked finding, blank `applies_to`). The stop conditions, declined requests, blank completion date and renamed header were not tried. The model held the whole task in its head and could not check its arithmetic with a tool; it agreed with the example, but a longer file index would be more error-prone.
 
 ## After this run
 

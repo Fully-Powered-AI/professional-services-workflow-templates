@@ -1,6 +1,6 @@
-# Quality of earnings adjustment evidence schedule: an invented example
+# Quality of earnings adjustment evidence schedule: an example
 
-*Illustrative example with invented data.* The businesses, suppliers, customers, people, documents and figures below are all invented. Company K is an invented 70-person maker of shop fittings that is being sold. An invented advisory firm is carrying out financial due diligence for the buyer. Company K's management has proposed six adjustments to its reported EBITDA for the twelve months to 30 September 2026. First come the inputs the deal team supplied, in full, then the schedule the workflow template returned.
+*Illustrative example with sample data.* The businesses, suppliers, customers, people, documents and figures below are all illustrative. Company K is an illustrative 70-person maker of shop fittings that is being sold. An illustrative advisory firm is carrying out financial due diligence for the buyer. Company K's management has proposed six adjustments to its reported EBITDA for the twelve months to 30 September 2026. First come the inputs the deal team supplied, in full, then the schedule the workflow template returned.
 
 ## The inputs
 

@@ -1,6 +1,6 @@
-# Completed engagement file review: an invented example
+# Completed engagement file review: an example
 
-*Illustrative example with invented data.* The firm, the clients, the people, the files and the dates below are all invented. The firm is an invented 40-person accounting and advisory practice. The quality partner selected three finished engagements for inspection and supplied the lists below; the practice administrator ran the workflow template. First come the inputs, in full, then the worksheet the workflow template returned.
+*Illustrative example with sample data.* The firm, the clients, the people, the files and the dates below are all illustrative. The firm is an illustrative 40-person accounting and advisory practice. The quality partner selected three finished engagements for inspection and supplied the lists below; the practice administrator ran the workflow template. First come the inputs, in full, then the worksheet the workflow template returned.
 
 ## The inputs
 

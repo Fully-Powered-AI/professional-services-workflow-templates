@@ -1,10 +1,10 @@
-# Client findings validation document: one trial on its invented example
+# Client findings validation document: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in `public/example.md`: the decision brief, the evidence register and the five candidate findings. No client data was used. This is the second run. The first run found eight ambiguities; the instruction block, the output format and the example were then edited to answer them (F2 now names no decision, and the dates are written one way). This run was made by the same model that made those edits, after it had read the first record and the reviewer's points, so it is not an independent run. It followed the revised instruction block and output format in `member/template.md` and compared its output with the revised example afterwards. The first run's record is replaced by this one.
+The inputs were the example in `public/example.md`: the decision brief, the evidence register and the five candidate findings. No client data was used. This is the second run. The first run found eight ambiguities; the instruction block, the output format and the example were then edited to answer them (F2 now names no decision, and the dates are written one way). This run was made by the same model that made those edits, after it had read the first record and the reviewer's points, so it is not an independent run. It followed the revised instruction block and output format in `member/template.md` and compared its output with the revised example afterwards. The first run's record is replaced by this one.
 
 ## What came out
 
@@ -33,7 +33,7 @@ The document had all three parts of the format, filled as follows.
   3. The first run's other ambiguities (withheld evidence as a flag, the tests on a not-material finding, a blank share, the personal-name rule, the all-evidence-withheld exception, Part C on a first run) are now answered in the block and the format, and none needed a guess in this run. The example has no blank share, no personal name and no finding whose evidence is all withheld, so those three rules were read but not exercised.
 - **Differences from the example:** none in any count, flag, decision or figure. Wording of the Part B flag lines and decision questions varies slightly between the two.
 - **Facts in either output that are not in the inputs:** none in the findings, evidence or figures. Both outputs add small words of their own, such as "the order-to-dispatch review" in the "What this is" line.
-- **Shortcomings of this trial:** one run, by the model that edited the template, on one invented example with no replies, so Part C was not exercised. The acceptance tests in the template were not run. This does not show how the template behaves on real client material.
+- **Shortcomings of this trial:** one run, by the model that edited the template, on one example with no replies, so Part C was not exercised. The acceptance tests in the template were not run. This does not show how the template behaves on real client material.
 
 ## Changes made after the independent review
 

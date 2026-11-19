@@ -1,10 +1,10 @@
-# Trial: Client schedule to ledger reconciliation, run on its invented example
+# Trial: Client schedule to ledger reconciliation, run on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example's. The client, customers, documents and figures are all made up, and no client data was used. The run used the five inputs in `public/example.md` (settings, trial balance extract, subledger schedule, journal detail, last reconciliation and client note) and the instruction block and output format in `member/template.md`. The run was done by a model that did not write the template. The worksheet was worked out from the inputs before the example's own worksheet was read, then compared with it.
+The inputs are the example's. The client, customers, documents and figures are all made up, and no client data was used. The run used the five inputs in `public/example.md` (settings, trial balance extract, subledger schedule, journal detail, last reconciliation and client note) and the instruction block and output format in `member/template.md`. The run was done by a model that did not write the template. The worksheet was worked out from the inputs before the example's own worksheet was read, then compared with it.
 
 ## What came out
 

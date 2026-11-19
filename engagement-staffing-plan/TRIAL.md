@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in `public/example.md`: an invented advisory firm, invented people and invented engagements. No client data was used. The assistant that ran this trial did not write the template.
+The inputs are the example in `public/example.md`: an illustrative advisory firm, sample people and illustrative engagements. No client data was used. The assistant that ran this trial did not write the template.
 
 ## Inputs used
 
@@ -77,13 +77,13 @@ Draft for the resource lead. Nothing has been assigned, moved, sent or changed. 
 
 ## Shortcomings of this trial
 
-- It is one run, by one model, on one invented example. It shows the instructions can be followed to the published result. It does not show the template is right for a real firm or a real time system.
+- It is one run, by one model, on one example. It shows the instructions can be followed to the published result. It does not show the template is right for a real firm or a real time system.
 - The example's output was visible before the plan was worked out, as described above.
 - The template's version notes still say "Not yet tried on its example". That line needs updating by the template's author.
 
 ## Edits made after this run
 
-These were made after the run above by the template's author, in response to an independent review. They have not been run again. None changes a figure on the invented example, because the example has no closed days, no part-time person on leave and no booking that starts mid-week; the recorded output above is unchanged.
+These were made after the run above by the template's author, in response to an independent review. They have not been run again. None changes a figure on the example, because the example has no closed days, no part-time person on leave and no booking that starts mid-week; the recorded output above is unchanged.
 
 - The version notes and the profile now say the template was tried once on its example.
 - The example's introduction now says two senior consultants and a partner, correcting the sentence noted above. Its two parentheticals are removed, its closing line says "the files supplied", and its options now say "the partner of Engagement X to agree" as this run did.

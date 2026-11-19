@@ -1,6 +1,6 @@
-# Client findings validation document: an invented example
+# Client findings validation document: an example
 
-*Illustrative example with invented data.* The firm, the client, the people, the evidence and every figure below are invented. Firm A is an invented advisory firm. Client B is an invented regional distributor of garden machinery parts with about 140 staff, and Firm A has been reviewing why orders leave its main warehouse late. First come the inputs the engagement lead supplied, in full, then the document the workflow template returned.
+*Illustrative example with sample data.* The firm, the client, the people, the evidence and every figure below are illustrative. Firm A is an illustrative advisory firm. Client B is an illustrative regional distributor of garden machinery parts with about 140 staff, and Firm A has been reviewing why orders leave its main warehouse late. First come the inputs the engagement lead supplied, in full, then the document the workflow template returned.
 
 ## The inputs
 

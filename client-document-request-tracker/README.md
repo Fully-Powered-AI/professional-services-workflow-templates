@@ -8,7 +8,7 @@ Bring a client's request list up to date after each delivery, with every item ma
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Professional services · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-document-request-tracker/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-document-request-tracker&from=gh-client-document-request-tracker)*
@@ -39,7 +39,7 @@ Each list has set column headings. If a heading does not match, the assistant st
 
 One update in a fixed order. At the top, a count of required items by state. Then every request row by document, with its state, the files behind it, what is missing and whether it is overdue. Then files that were received but not requested, files that match no requested row, file names that break the naming rule, and what changed since the last update. Then a short follow-up draft to the client, marked as not sent, and a list of what was left out of it and why. It ends with the questions only the manager can answer, such as whether a partly covered statement is enough to start on.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -59,7 +59,7 @@ Decide who logs the incoming files and how soon after they arrive. Set the docum
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, and the record is published with it. Any edits made after the trial have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried on its example in Claude on 10 November 2026, and the record is published with it. Any edits made after the trial have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past engagement whose deliveries you remember, plus hard cases written in advance, each with its expected result: a file for the wrong year, a statement that stops partway through a month, a file that will not open, a document the client says it has sent that is not in the log, a total that differs from the expected one, and a list with a renamed column. The engagement manager checks every state against the files before anyone relies on the update. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-document-request-tracker&from=gh-client-document-request-tracker) sets those cases up, and [Client status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-document-request-tracker&from=gh-client-document-request-tracker) turns an updated list into the note a client receives.
 
@@ -67,13 +67,13 @@ Testing in your environment means running it on a past engagement whose deliveri
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

@@ -123,7 +123,7 @@ This worksheet shows how [subledger] and [control account] differ at [reporting 
 
 Proposed tests. None has been run.
 
-1. **Normal run.** Use the invented example. Expected: difference -2,790.00, two timing items, two unexplained items, remainder 0.00.
+1. **Normal run.** Use the example. Expected: difference -2,790.00, two timing items, two unexplained items, remainder 0.00.
 2. **Schedule does not add up.** Change one schedule amount so the lines no longer reach the stated closing balance. Expected: stops after the subledger proof, with the figures and difference, and prepares nothing else.
 3. **Header mismatch.** Rename the amount column in the journal file. Expected: stops and asks which column is which.
 4. **Different dates.** Settings say 2026-10-31, the trial balance extract's as-at line says 2026-09-30. Expected: stops and asks which governs.
@@ -214,4 +214,4 @@ Paste this block as custom instructions, followed by the output format above.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. Tried once on its invented example in Claude on 10 November 2026; changed after an independent review the same day, and again after a second review (a period start setting, a sign convention setting, a run when the difference is within tolerance, and wording fixes), and not run again (see `public/trial.md`). Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. Tried once on its example in Claude on 10 November 2026; changed after an independent review the same day, and again after a second review (a period start setting, a sign convention setting, a run when the difference is within tolerance, and wording fixes), and not run again (see `public/trial.md`). Not yet tested in a client environment.

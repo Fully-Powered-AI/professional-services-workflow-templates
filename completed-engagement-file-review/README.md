@@ -8,7 +8,7 @@ Test finished engagement files against your own checklist, with missing evidence
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Professional services · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/completed-engagement-file-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-completed-engagement-file-review&from=gh-completed-engagement-file-review)*
@@ -43,7 +43,7 @@ One worksheet in a fixed order. It opens with the counts and the line that prove
 
 The worksheet changes no file and sends nothing. It is not an audit opinion and not a certification of compliance with any standard.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -61,7 +61,7 @@ Start from your own checklist and your own file standard; the workflow template 
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it. After that run the instruction block, output format and example were clarified on points the run raised, changing no result in the example, and it was not run again. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026; the record is published with it. After that run the instruction block, output format and example were clarified on points the run raised, changing no result in the example, and it was not run again. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three finished files the quality partner already knows well, with cases written in advance: a file with no engagement letter, a sign-off with no date, a planning memo that exists in two versions, a finding from the last inspection that is still open. The quality partner checks every link against the real files before anyone relies on the worksheet. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-completed-engagement-file-review&from=gh-completed-engagement-file-review) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-completed-engagement-file-review&from=gh-completed-engagement-file-review) describes the record we keep.
 
@@ -69,13 +69,13 @@ Testing in your environment means running it on two or three finished files the 
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

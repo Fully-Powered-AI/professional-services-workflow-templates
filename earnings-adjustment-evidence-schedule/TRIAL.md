@@ -1,10 +1,10 @@
-# Quality of earnings adjustment evidence schedule: one trial on the invented example
+# Quality of earnings adjustment evidence schedule: one trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-11
 
-The inputs were the template's own invented example (Company K, an invented 70-person maker of shop fittings). No client data was used. The run was made by a model that did not write the template.
+The inputs were the template's own example (Company K, an illustrative 70-person maker of shop fittings). No client data was used. The run was made by a model that did not write the template.
 
 ## Inputs used
 
@@ -74,7 +74,7 @@ Adjustments management did not propose. Entries management did not cite. Whether
   - A5 raised Recurs because of G-150, which shares a counterparty with G-230, an entry A5 shares with A2. The rule says "same counterparty as a linked entry", which allows this, but a reviewer may think it counts the same fact twice.
   - A question that serves two adjustments is numbered once and listed under both. The numbering rule ("in adjustment order") does not say where it falls in that order.
   - The fenced instruction block is a shortened form of the procedure. It leaves out the exact "Stopped:" output for a stopped run, the "calculation not recomputable" handling and the rule against repeating bank details is only partly carried over. Pasted alone, it does less than the full template.
-  - Step 6 uses employer payroll costs as its example of a basis mismatch, which is exactly the case in this invented example, so this example does not test whether the instruction works for other kinds of mismatch.
+  - Step 6 uses employer payroll costs as its example of a basis mismatch, which is exactly the case in this example, so this example does not test whether the instruction works for other kinds of mismatch.
 - **Since addressed (not re-run):** after this run, the template was revised for the look-back zero, the shared Recurs flag, the numbering of a question that serves several adjustments, the shortened instruction block, and the basis-mismatch illustration in step 6, and the output format now fixes the date style. This record shows the run as it was, before those edits; the template has not been run again.
 - **Not tried:** the other eight acceptance tests (header mismatch, uncited entry, requests to give a view or to send, a second run, and so on). They remain "proposed, none run" in the template.
-- **Limits.** One run, one model, one invented example. It shows the template can be followed to a complete schedule here. It does not show how it behaves on a real data room, and nothing here is tested for a client.
+- **Limits.** One run, one model, one example. It shows the template can be followed to a complete schedule here. It does not show how it behaves on a real data room, and nothing here is tested for a client.

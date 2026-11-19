@@ -1,6 +1,6 @@
-# Engagement margin review: an invented example
+# Engagement margin review: an example
 
-*Illustrative example with invented data.* The firm, the client, the suppliers, the roles' cost rates and every figure below are invented. Firm A is an invented 30-person advisory firm. It is mid-way through an operating-model review for Client B, a fixed-fee engagement billed on milestones. The finance analyst prepares the review for the engagement partner and the finance lead. People are referred to by role.
+*Illustrative example with sample data.* The firm, the client, the suppliers, the roles' cost rates and every figure below are illustrative. Firm A is an illustrative 30-person advisory firm. It is mid-way through an operating-model review for Client B, a fixed-fee engagement billed on milestones. The finance analyst prepares the review for the engagement partner and the finance lead. People are referred to by role.
 
 The inputs come first, in full, so the template can be run on them. The worksheet follows.
 

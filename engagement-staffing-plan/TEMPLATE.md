@@ -238,4 +238,4 @@ that decides. Never adjust a figure to make an option fit.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried once on its invented example in Claude on 10 November 2026, with the record published. Edits to the pasted instructions, the output format, the checklist and the example were made after that run and have not been run again; the trial record lists them. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried once on its example in Claude on 10 November 2026, with the record published. Edits to the pasted instructions, the output format, the checklist and the example were made after that run and have not been run again; the trial record lists them. Not yet tested in a client environment.

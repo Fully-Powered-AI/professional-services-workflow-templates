@@ -142,7 +142,7 @@ Write dates as day, month name, year. Print the quality partner setting exactly 
 
 ## Acceptance tests
 
-Proposed tests. The one trial on the invented example exercised some of them (see its record); the rest have not been run.
+Proposed tests. The one trial on the example exercised some of them (see its record); the rest have not been run.
 
 1. **Clean file.** Every applicable item has one row with a signer and a date, none after completion. Expected: all Evidenced, nothing to settle, counts tie.
 2. **Missing letter.** No letter row for an engagement. Expected: the letter item is Missing, with "nothing in the file index for letter", and appears under Missing evidence with the engagement partner.
@@ -267,4 +267,4 @@ decline: an absent sign-off is shown as absent.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. Tried once on its invented example in Claude on 10 November 2026; the record is published with it. After that run the instruction block, output format and example were clarified on the points the run raised (open prior finding on a Missing item, both names filled for an own sign-off, the settings' defaults, printing a blank reference, the order and separator of flags, the kind in decision 3, the owner as written in the log). They change no result in the example, and the template was not run again after them. A later review pass reshaped the count line and added the question wordings and the not-linked reasons to the instruction block, again without a new run. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. Tried once on its example in Claude on 10 November 2026; the record is published with it. After that run the instruction block, output format and example were clarified on the points the run raised (open prior finding on a Missing item, both names filled for an own sign-off, the settings' defaults, printing a blank reference, the order and separator of flags, the kind in decision 3, the owner as written in the log). They change no result in the example, and the template was not run again after them. A later review pass reshaped the count line and added the question wordings and the not-linked reasons to the instruction block, again without a new run. Not yet tested in a client environment.
