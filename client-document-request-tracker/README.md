@@ -1,10 +1,17 @@
 # Client document request tracker
 
-When a client sends its first batch of records, the engagement manager gets the request list brought up to date: each item and period marked received, incomplete, mentioned only or missing, plus a short follow-up draft. The manager judges what is sufficient and approves anything sent.
+Bring a client's request list up to date after each delivery, with every item marked and a follow-up draft. The engagement manager decides what is enough.
 
-*Workflow template · Professional services · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-document-request-tracker/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Client document request tracker on our website](https://fullypowered.ai/workflows/client-document-request-tracker/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-document-request-tracker&from=gh-client-document-request-tracker) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/client-document-request-tracker/?from=gh-client-document-request-tracker)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Professional services · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-document-request-tracker/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-document-request-tracker&from=gh-client-document-request-tracker)*
 
 ## The outcome
 
@@ -36,13 +43,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where an engagement stalls until the client's records arrive and the manager is the one waiting.
-- [Law firms](https://fullypowered.ai/industries/law-firms/), where administrators keep track of which client records have arrived for a matter and which have not. The workflow template tracks arrivals only; it reads no file and does no legal work.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), where a client's drawings, data and project records arrive in pieces over several weeks.
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), which owns the dependencies a project cannot start without.
-- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/), where asking a client for things clearly and politely is part of keeping the relationship in good order.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where a request list lives in a spreadsheet and an inbox.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more engagements run at once than one manager can track by memory.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-document-request-tracker&from=gh-client-document-request-tracker), where an engagement stalls until the client's records arrive and the manager is the one waiting.
+- [Law firms](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-document-request-tracker&from=gh-client-document-request-tracker), where administrators keep track of which client records have arrived for a matter and which have not. The workflow template tracks arrivals only; it reads no file and does no legal work.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-document-request-tracker&from=gh-client-document-request-tracker), where a client's drawings, data and project records arrive in pieces over several weeks.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-document-request-tracker&from=gh-client-document-request-tracker), which owns the dependencies a project cannot start without.
+- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-document-request-tracker&from=gh-client-document-request-tracker), where asking a client for things clearly and politely is part of keeping the relationship in good order.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-document-request-tracker&from=gh-client-document-request-tracker), where a request list lives in a spreadsheet and an inbox.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-document-request-tracker&from=gh-client-document-request-tracker), when more engagements run at once than one manager can track by memory.
 
 ## What has to change for your company
 
@@ -52,7 +59,7 @@ Decide who logs the incoming files and how soon after they arrive. Set the docum
 
 FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, and the record is published with it. Any edits made after the trial have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past engagement whose deliveries you remember, plus hard cases written in advance, each with its expected result: a file for the wrong year, a statement that stops partway through a month, a file that will not open, a document the client says it has sent that is not in the log, a total that differs from the expected one, and a list with a renamed column. The engagement manager checks every state against the files before anyone relies on the update. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [Client status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/) turns an updated list into the note a client receives.
+Testing in your environment means running it on a past engagement whose deliveries you remember, plus hard cases written in advance, each with its expected result: a file for the wrong year, a statement that stops partway through a month, a file that will not open, a document the client says it has sent that is not in the log, a total that differs from the expected one, and a list with a renamed column. The engagement manager checks every state against the files before anyone relies on the update. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-document-request-tracker&from=gh-client-document-request-tracker) sets those cases up, and [Client status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-document-request-tracker&from=gh-client-document-request-tracker) turns an updated list into the note a client receives.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -79,10 +86,10 @@ Testing in your environment means running it on a past engagement whose deliveri
 
 ## Related workflow templates
 
-- [Reviewer comments into one resolution list](https://fullypowered.ai/workflows/reviewer-comments-resolution-list/)
-- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/)
-- [Project handover readiness check](https://fullypowered.ai/workflows/project-handover-readiness-check/)
+- [Reviewer comments into one resolution list](https://fullypowered.ai/workflows/reviewer-comments-resolution-list/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-document-request-tracker&from=gh-client-document-request-tracker)
+- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-document-request-tracker&from=gh-client-document-request-tracker)
+- [Project handover readiness check](https://fullypowered.ai/workflows/project-handover-readiness-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-document-request-tracker&from=gh-client-document-request-tracker)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-document-request-tracker&from=gh-client-document-request-tracker).

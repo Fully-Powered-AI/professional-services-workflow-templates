@@ -1,10 +1,17 @@
 # Completed engagement file review
 
-The quality partner gets a worksheet that tests finished engagement files against the firm's own checklist: each item linked to the engagement letter, workpaper or sign-off that answers it, with any open finding, and the missing evidence listed. The quality partner confirms findings and assigns remediation.
+Test finished engagement files against your own checklist, with missing evidence listed. The quality partner confirms findings and assigns remediation.
 
-*Workflow template · Professional services · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/completed-engagement-file-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Completed engagement file review on our website](https://fullypowered.ai/workflows/completed-engagement-file-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-completed-engagement-file-review&from=gh-completed-engagement-file-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/completed-engagement-file-review/?from=gh-completed-engagement-file-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Professional services · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/completed-engagement-file-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-completed-engagement-file-review&from=gh-completed-engagement-file-review)*
 
 ## The outcome
 
@@ -40,13 +47,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Quality management](https://fullypowered.ai/functions/quality-management/), where the quality partner tests files after the fact and needs the same test applied to each one.
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), where the engagement file is the record of how the work was run.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where finished files for accounting, advisory and consulting engagements are inspected against the firm's own standard.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the checklist has been in use for years and the inspection is a regular cycle.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the partners can no longer see every file and need one consistent test.
+- [Quality management](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-completed-engagement-file-review&from=gh-completed-engagement-file-review), where the quality partner tests files after the fact and needs the same test applied to each one.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-completed-engagement-file-review&from=gh-completed-engagement-file-review), where the engagement file is the record of how the work was run.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-completed-engagement-file-review&from=gh-completed-engagement-file-review), where finished files for accounting, advisory and consulting engagements are inspected against the firm's own standard.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-completed-engagement-file-review&from=gh-completed-engagement-file-review), where the checklist has been in use for years and the inspection is a regular cycle.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-completed-engagement-file-review&from=gh-completed-engagement-file-review), when the partners can no longer see every file and need one consistent test.
 
-It stays apart from two neighbours. [Audit evidence index](https://fullypowered.ai/workflows/audit-evidence-index/) answers an outside request list from a document register. [Quality management review pack](https://fullypowered.ai/workflows/quality-management-review-pack/) briefs senior leaders on measures. This one tests finished files against your own checklist. What the inspection teaches about the work itself belongs in [Project lessons review](https://fullypowered.ai/workflows/project-lessons-review/).
+It stays apart from two neighbours. [Audit evidence index](https://fullypowered.ai/workflows/audit-evidence-index/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-completed-engagement-file-review&from=gh-completed-engagement-file-review) answers an outside request list from a document register. [Quality management review pack](https://fullypowered.ai/workflows/quality-management-review-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-completed-engagement-file-review&from=gh-completed-engagement-file-review) briefs senior leaders on measures. This one tests finished files against your own checklist. What the inspection teaches about the work itself belongs in [Project lessons review](https://fullypowered.ai/workflows/project-lessons-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-completed-engagement-file-review&from=gh-completed-engagement-file-review).
 
 ## What has to change for your company
 
@@ -56,7 +63,7 @@ Start from your own checklist and your own file standard; the workflow template 
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it. After that run the instruction block, output format and example were clarified on points the run raised, changing no result in the example, and it was not run again. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three finished files the quality partner already knows well, with cases written in advance: a file with no engagement letter, a sign-off with no date, a planning memo that exists in two versions, a finding from the last inspection that is still open. The quality partner checks every link against the real files before anyone relies on the worksheet. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three finished files the quality partner already knows well, with cases written in advance: a file with no engagement letter, a sign-off with no date, a planning memo that exists in two versions, a finding from the last inspection that is still open. The quality partner checks every link against the real files before anyone relies on the worksheet. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-completed-engagement-file-review&from=gh-completed-engagement-file-review) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-completed-engagement-file-review&from=gh-completed-engagement-file-review) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -83,10 +90,10 @@ Testing in your environment means running it on two or three finished files the 
 
 ## Related workflow templates
 
-- [Audit evidence index](https://fullypowered.ai/workflows/audit-evidence-index/)
-- [Quality management review pack](https://fullypowered.ai/workflows/quality-management-review-pack/)
-- [Project lessons review](https://fullypowered.ai/workflows/project-lessons-review/)
+- [Audit evidence index](https://fullypowered.ai/workflows/audit-evidence-index/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-completed-engagement-file-review&from=gh-completed-engagement-file-review)
+- [Quality management review pack](https://fullypowered.ai/workflows/quality-management-review-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-completed-engagement-file-review&from=gh-completed-engagement-file-review)
+- [Project lessons review](https://fullypowered.ai/workflows/project-lessons-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-completed-engagement-file-review&from=gh-completed-engagement-file-review)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-completed-engagement-file-review&from=gh-completed-engagement-file-review).

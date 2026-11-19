@@ -1,10 +1,17 @@
 # Quality of earnings adjustment evidence schedule
 
-When management proposes adjustments to a target's EBITDA, the deal team gets one schedule: each adjustment tied to its ledger entries, explanation and documents, with repeats, overlaps and gaps flagged and every gap written as a question. The engagement lead decides what is accepted.
+Tie each proposed EBITDA adjustment to its ledger entries, explanation and documents, with repeats and overlaps flagged and gaps as questions.
 
-*Workflow template · Professional services · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/earnings-adjustment-evidence-schedule/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Quality of earnings adjustment evidence schedule on our website](https://fullypowered.ai/workflows/earnings-adjustment-evidence-schedule/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-earnings-adjustment-evidence-schedule&from=gh-earnings-adjustment-evidence-schedule) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/earnings-adjustment-evidence-schedule/?from=gh-earnings-adjustment-evidence-schedule)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Professional services · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/earnings-adjustment-evidence-schedule/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-earnings-adjustment-evidence-schedule&from=gh-earnings-adjustment-evidence-schedule)*
 
 ## The outcome
 
@@ -42,13 +49,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), filed under mergers and acquisitions, where diligence on earnings is done.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where transaction-advisory and accounting firms test management's adjustments for a buyer, a seller or a lender.
-- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/), where an investment team reviews a target's adjustments before it relies on an adviser's report.
-- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/), when a business is being bought and its earnings are the basis of the price.
-- [Private equity & portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/), where a portfolio company's adjusted EBITDA is tested before an add-on purchase or an exit.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-earnings-adjustment-evidence-schedule&from=gh-earnings-adjustment-evidence-schedule), filed under mergers and acquisitions, where diligence on earnings is done.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-earnings-adjustment-evidence-schedule&from=gh-earnings-adjustment-evidence-schedule), where transaction-advisory and accounting firms test management's adjustments for a buyer, a seller or a lender.
+- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-earnings-adjustment-evidence-schedule&from=gh-earnings-adjustment-evidence-schedule), where an investment team reviews a target's adjustments before it relies on an adviser's report.
+- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-earnings-adjustment-evidence-schedule&from=gh-earnings-adjustment-evidence-schedule), when a business is being bought and its earnings are the basis of the price.
+- [Private equity & portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-earnings-adjustment-evidence-schedule&from=gh-earnings-adjustment-evidence-schedule), where a portfolio company's adjusted EBITDA is tested before an add-on purchase or an exit.
 
-It stays apart from [client schedule to ledger reconciliation](https://fullypowered.ai/workflows/client-schedule-to-ledger-reconciliation/), which agrees a client's schedule to its own books, and from the [client document request tracker](https://fullypowered.ai/workflows/client-document-request-tracker/), which tracks what a client has sent. This one tests management's proposed earnings adjustments against their evidence.
+It stays apart from [client schedule to ledger reconciliation](https://fullypowered.ai/workflows/client-schedule-to-ledger-reconciliation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-earnings-adjustment-evidence-schedule&from=gh-earnings-adjustment-evidence-schedule), which agrees a client's schedule to its own books, and from the [client document request tracker](https://fullypowered.ai/workflows/client-document-request-tracker/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-earnings-adjustment-evidence-schedule&from=gh-earnings-adjustment-evidence-schedule), which tracks what a client has sent. This one tests management's proposed earnings adjustments against their evidence.
 
 ## What has to change for your company
 
@@ -63,7 +70,7 @@ It stays apart from [client schedule to ledger reconciliation](https://fullypowe
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 11 November 2026. It was tried on its invented example in Claude on 11 November 2026; the record is published with it. After the run its wording was tightened following review; the example's inputs and figures were not changed. A later review pass made small further edits, including writing every date in the example's schedule in one style; the example was not run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a completed engagement whose adjustments your team has already worked through, plus hard cases written in advance, each with the expected result: an entry cited by two adjustments, a cost paid to the same supplier the year before, an estimate with no document for its assumption, an entry dated before the test period, a file with a heading it does not recognize. The engagement lead compares every tie and flag with the signed-off work before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a completed engagement whose adjustments your team has already worked through, plus hard cases written in advance, each with the expected result: an entry cited by two adjustments, a cost paid to the same supplier the year before, an estimate with no document for its assumption, an entry dated before the test period, a file with a heading it does not recognize. The engagement lead compares every tie and flag with the signed-off work before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-earnings-adjustment-evidence-schedule&from=gh-earnings-adjustment-evidence-schedule) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-earnings-adjustment-evidence-schedule&from=gh-earnings-adjustment-evidence-schedule) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -96,4 +103,4 @@ Testing in your environment means running it on a completed engagement whose adj
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-earnings-adjustment-evidence-schedule&from=gh-earnings-adjustment-evidence-schedule).

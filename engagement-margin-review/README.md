@@ -1,10 +1,17 @@
 # Engagement margin review
 
-Midway or at close, the partner and finance lead get one worksheet for an engagement: recorded time, agreed fee, billed to date and supplied costs by workstream, the gaps that limit it, and the questions the team must answer. No cost rate is invented.
+One worksheet for an engagement: time, agreed fee, billed and costs by workstream, the gaps and the questions. The partner and finance lead decide.
 
-*Workflow template · Professional services · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/engagement-margin-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Engagement margin review on our website](https://fullypowered.ai/workflows/engagement-margin-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-margin-review&from=gh-engagement-margin-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/engagement-margin-review/?from=gh-engagement-margin-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Professional services · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/engagement-margin-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-margin-review&from=gh-engagement-margin-review)*
 
 ## The outcome
 
@@ -35,15 +42,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where the partner owns the engagement's economics and the finance lead sees them only after close.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), where design and study phases run over their hours before the invoice schedule notices.
-- [Marketing & advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where agency retainers and project fees depend on how many hours a client's work actually takes.
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), which keeps the cost rates, the billing and the books this review draws on.
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), where the engagement manager answers for the plan the hours were budgeted against.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more engagements run at once than one partner can hold in their head.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where an engagement's true cost is known to one person and should be on a page.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-margin-review&from=gh-engagement-margin-review), where the partner owns the engagement's economics and the finance lead sees them only after close.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-margin-review&from=gh-engagement-margin-review), where design and study phases run over their hours before the invoice schedule notices.
+- [Marketing & advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-margin-review&from=gh-engagement-margin-review), where agency retainers and project fees depend on how many hours a client's work actually takes.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-margin-review&from=gh-engagement-margin-review), which keeps the cost rates, the billing and the books this review draws on.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-margin-review&from=gh-engagement-margin-review), where the engagement manager answers for the plan the hours were budgeted against.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-margin-review&from=gh-engagement-margin-review), when more engagements run at once than one partner can hold in their head.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-margin-review&from=gh-engagement-margin-review), where an engagement's true cost is known to one person and should be on a page.
 
-It is a different piece of work from the [budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/), which explains a period's ledger lines for management, and from the [client billing summary](https://fullypowered.ai/workflows/client-billing-summary/), which prepares an invoice for the client to read. This one looks inside a single engagement at what the work has taken against what was agreed.
+It is a different piece of work from the [budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-margin-review&from=gh-engagement-margin-review), which explains a period's ledger lines for management, and from the [client billing summary](https://fullypowered.ai/workflows/client-billing-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-margin-review&from=gh-engagement-margin-review), which prepares an invoice for the client to read. This one looks inside a single engagement at what the work has taken against what was agreed.
 
 ## What has to change for your company
 
@@ -53,7 +60,7 @@ Decide which fee bases you will review (fixed fee, capped fee or budgeted time a
 
 FullyPowered AI wrote this workflow template from its own map of the work. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. No edit has been made since that run. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your firm means running it on two or three finished engagements whose outcome the partner already knows, plus hard cases written in advance: a fee schedule that does not add up, hours in a workstream that is not scheduled, a role with no cost rate, a subcontractor invoice that has not arrived. The finance lead checks every figure against the timesheet system and the billing records before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your firm means running it on two or three finished engagements whose outcome the partner already knows, plus hard cases written in advance: a fee schedule that does not add up, hours in a workstream that is not scheduled, a role with no cost rate, a subcontractor invoice that has not arrived. The finance lead checks every figure against the timesheet system and the billing records before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-margin-review&from=gh-engagement-margin-review) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-margin-review&from=gh-engagement-margin-review) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -80,10 +87,10 @@ Testing in your firm means running it on two or three finished engagements whose
 
 ## Related workflow templates
 
-- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/)
-- [Client billing summary](https://fullypowered.ai/workflows/client-billing-summary/)
-- [Month-end close checklist](https://fullypowered.ai/workflows/month-end-close-checklist/)
+- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-margin-review&from=gh-engagement-margin-review)
+- [Client billing summary](https://fullypowered.ai/workflows/client-billing-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-margin-review&from=gh-engagement-margin-review)
+- [Month-end close checklist](https://fullypowered.ai/workflows/month-end-close-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-margin-review&from=gh-engagement-margin-review)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-margin-review&from=gh-engagement-margin-review).

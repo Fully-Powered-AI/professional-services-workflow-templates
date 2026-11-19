@@ -1,10 +1,17 @@
 # Engagement staffing plan
 
-When several engagements want the same people, the resource lead sees the collision before kickoff: role needs against free days, leave and competing assignments, week by week, with two or three staffing options. The resource lead and partners choose.
+See where engagements collide over the same people before kickoff, with two or three staffing options. The resource lead and partners choose.
 
-*Workflow template · Professional services · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/engagement-staffing-plan/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Engagement staffing plan on our website](https://fullypowered.ai/workflows/engagement-staffing-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-staffing-plan&from=gh-engagement-staffing-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/engagement-staffing-plan/?from=gh-engagement-staffing-plan)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Professional services · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/engagement-staffing-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-staffing-plan&from=gh-engagement-staffing-plan)*
 
 ## The outcome
 
@@ -34,23 +41,23 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where the same few specialists are wanted by several engagements and review time is as scarce as delivery time.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), where licensed or specialist staff are the limit on how many projects can run at once.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where a strategist or senior designer is promised to more than one account.
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), which owns the engagement dates and the people on them.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where staffing rhythms are set and kept.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where staffing lives in one person's memory and a shared spreadsheet.
-- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/), where wins arrive faster than the bench grows.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-staffing-plan&from=gh-engagement-staffing-plan), where the same few specialists are wanted by several engagements and review time is as scarce as delivery time.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-staffing-plan&from=gh-engagement-staffing-plan), where licensed or specialist staff are the limit on how many projects can run at once.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-staffing-plan&from=gh-engagement-staffing-plan), where a strategist or senior designer is promised to more than one account.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-staffing-plan&from=gh-engagement-staffing-plan), which owns the engagement dates and the people on them.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-staffing-plan&from=gh-engagement-staffing-plan), where staffing rhythms are set and kept.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-staffing-plan&from=gh-engagement-staffing-plan), where staffing lives in one person's memory and a shared spreadsheet.
+- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-staffing-plan&from=gh-engagement-staffing-plan), where wins arrive faster than the bench grows.
 
 ## What has to change for your company
 
-Decide your roles and qualifications and keep the names identical across files. Decide who may cover which role, because as written a person fills only a line for their own role. Set the unit of time: the workflow template counts Monday to Friday weeks and days. State which bookings may move and who has agreed. Choose the ceiling for a part-time person's days. Decide how much of a week a partner has for review. It does not set hiring or headcount, which is [Headcount plan](https://fullypowered.ai/workflows/headcount-plan/), and it does not score a new proposal, which is [Project intake and capacity review](https://fullypowered.ai/workflows/project-intake-and-capacity-review/). It makes no judgment of any person's performance and ignores ratings or pay if they are supplied.
+Decide your roles and qualifications and keep the names identical across files. Decide who may cover which role, because as written a person fills only a line for their own role. Set the unit of time: the workflow template counts Monday to Friday weeks and days. State which bookings may move and who has agreed. Choose the ceiling for a part-time person's days. Decide how much of a week a partner has for review. It does not set hiring or headcount, which is [Headcount plan](https://fullypowered.ai/workflows/headcount-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-staffing-plan&from=gh-engagement-staffing-plan), and it does not score a new proposal, which is [Project intake and capacity review](https://fullypowered.ai/workflows/project-intake-and-capacity-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-staffing-plan&from=gh-engagement-staffing-plan). It makes no judgment of any person's performance and ignores ratings or pay if they are supplied.
 
 ## What has been checked
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it; edits made afterward have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past quarter your resource lead remembers well, plus cases written in advance with the expected result: a person on leave in the week of a start, a qualification held by nobody, an assignment that runs past its engagement, a tentative win that would double the load. The resource lead checks every figure against the source files before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up.
+Testing in your environment means running it on a past quarter your resource lead remembers well, plus cases written in advance with the expected result: a person on leave in the week of a start, a qualification held by nobody, an assignment that runs past its engagement, a tentative win that would double the load. The resource lead checks every figure against the source files before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-staffing-plan&from=gh-engagement-staffing-plan) sets those cases up.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -77,10 +84,10 @@ Testing in your environment means running it on a past quarter your resource lea
 
 ## Related workflow templates
 
-- [Project intake and capacity review](https://fullypowered.ai/workflows/project-intake-and-capacity-review/)
-- [Headcount plan](https://fullypowered.ai/workflows/headcount-plan/)
-- [Scope change impact review](https://fullypowered.ai/workflows/scope-change-impact-review/)
+- [Project intake and capacity review](https://fullypowered.ai/workflows/project-intake-and-capacity-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-staffing-plan&from=gh-engagement-staffing-plan)
+- [Headcount plan](https://fullypowered.ai/workflows/headcount-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-staffing-plan&from=gh-engagement-staffing-plan)
+- [Scope change impact review](https://fullypowered.ai/workflows/scope-change-impact-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-staffing-plan&from=gh-engagement-staffing-plan)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-engagement-staffing-plan&from=gh-engagement-staffing-plan).

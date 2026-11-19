@@ -1,10 +1,17 @@
 # Client findings validation document
 
-Before research becomes recommendations, the engagement lead sends the client one document: each material finding beside its evidence, the implication proposed and a clear request to confirm, correct or defer it. Nothing is added that the evidence does not show.
+Put each finding to the client beside its evidence and implication, with a request to confirm, correct or defer. The engagement lead checks every item.
 
-*Workflow template · Professional services · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-findings-validation-document/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Client findings validation document on our website](https://fullypowered.ai/workflows/client-findings-validation-document/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-findings-validation-document&from=gh-client-findings-validation-document) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/client-findings-validation-document/?from=gh-client-findings-validation-document)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Professional services · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-findings-validation-document/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-findings-validation-document&from=gh-client-findings-validation-document)*
 
 ## The outcome
 
@@ -37,15 +44,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where the lead has to be sure the client agrees with the findings before the team builds on them.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), where a study's findings are put to the owner before design or scope follows from them.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where audience and market research is checked with the client before a plan is built on it.
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), which owns the engagement plan and the gate before the team proceeds.
-- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/), which keeps the client's sponsor confident that nothing reaches them as a surprise.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the client has a view of its own operations that the team needs to hear.
-- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more engagements run at once and the checking cannot rest on one lead's memory.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-findings-validation-document&from=gh-client-findings-validation-document), where the lead has to be sure the client agrees with the findings before the team builds on them.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-findings-validation-document&from=gh-client-findings-validation-document), where a study's findings are put to the owner before design or scope follows from them.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-findings-validation-document&from=gh-client-findings-validation-document), where audience and market research is checked with the client before a plan is built on it.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-findings-validation-document&from=gh-client-findings-validation-document), which owns the engagement plan and the gate before the team proceeds.
+- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-findings-validation-document&from=gh-client-findings-validation-document), which keeps the client's sponsor confident that nothing reaches them as a surprise.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-findings-validation-document&from=gh-client-findings-validation-document), where the client has a view of its own operations that the team needs to hear.
+- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-findings-validation-document&from=gh-client-findings-validation-document), when more engagements run at once and the checking cannot rest on one lead's memory.
 
-It is separate from [customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/), which draws themes from a stack of customer notes, and from [research summary brief](https://fullypowered.ai/workflows/research-summary-brief/), which summarizes documents for a reader. This one takes findings that already exist and puts them to the client.
+It is separate from [customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-findings-validation-document&from=gh-client-findings-validation-document), which draws themes from a stack of customer notes, and from [research summary brief](https://fullypowered.ai/workflows/research-summary-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-findings-validation-document&from=gh-client-findings-validation-document), which summarizes documents for a reader. This one takes findings that already exist and puts them to the client.
 
 ## What has to change for your company
 
@@ -55,7 +62,7 @@ Decide who counts as the client's decider for each kind of finding. Set what mak
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried twice on its invented example on 10 November 2026 in Claude (the second run was not independent), and the record of the second is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on an engagement you have already finished, with cases written in advance: a finding with one source behind it, a claim worded more strongly than its evidence, evidence that contradicts the finding, an interview marked not to be shown. The engagement lead checks every item against its source before anything is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up.
+Testing in your environment means running it on an engagement you have already finished, with cases written in advance: a finding with one source behind it, a claim worded more strongly than its evidence, evidence that contradicts the finding, an interview marked not to be shown. The engagement lead checks every item against its source before anything is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-findings-validation-document&from=gh-client-findings-validation-document) sets those cases up.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -82,10 +89,10 @@ Testing in your environment means running it on an engagement you have already f
 
 ## Related workflow templates
 
-- [Customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/)
-- [Research summary brief](https://fullypowered.ai/workflows/research-summary-brief/)
-- [Decision log](https://fullypowered.ai/workflows/decision-log/)
+- [Customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-findings-validation-document&from=gh-client-findings-validation-document)
+- [Research summary brief](https://fullypowered.ai/workflows/research-summary-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-findings-validation-document&from=gh-client-findings-validation-document)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-findings-validation-document&from=gh-client-findings-validation-document)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-findings-validation-document&from=gh-client-findings-validation-document).
