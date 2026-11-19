@@ -51,6 +51,8 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-document-request-tracker&from=gh-client-document-request-tracker), where a request list lives in a spreadsheet and an inbox.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-document-request-tracker&from=gh-client-document-request-tracker), when more engagements run at once than one manager can track by memory.
 
+See all the [legal AI workflow examples](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-client-document-request-tracker&from=gh-client-document-request-tracker) for law firms.
+
 ## What has to change for your company
 
 Decide who logs the incoming files and how soon after they arrive. Set the document names on your request lists and use the same names in the delivery log, because matching is by name. Decide which items are required and which are optional, and which have an expected total worth checking. Agree your file naming rule or leave it out. Choose how far ahead of a due date an item may be chased, and who in the client's team receives the follow-up. Decide who approves the draft and how it is sent, which this workflow template leaves entirely to your people.
