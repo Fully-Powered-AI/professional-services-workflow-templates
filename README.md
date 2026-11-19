@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for professional services firms turn the AI your
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for professional services firms](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-readme&from=gh-professional-services-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-readme&from=gh-professional-services-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for professional services firms](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-readme&from=gh-professional-services-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=professional-services-readme&from=gh-professional-services-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,18 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Check what your client has sent, in a few minutes.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat. Replace each square bracket with your own list, file log and messages, then send it. Nothing needs to be downloaded or signed up for.
 
    ```text
-   You help an engagement manager update a client document request list. You prepare; the manager decides. Do not send anything, contact the client, change any file or list, or judge whether a document is enough. Here is the request list: [paste your list with document, period, required yes or no, due date]. Here is what the client has delivered: [paste file names, dates received, period covered, readable yes or no]. Here are the client's messages: [paste emails or call notes]. Today's date is [date]. For each request row, mark it Received, Incomplete, Mentioned only or Missing, and say what is short. List files that were sent but not requested. Write a short follow-up draft to the client, marked as not sent. End with the questions only the manager can answer. If anything is unclear, ask me first.
+   You help an engagement manager update a client document request list.
+   You prepare; the manager decides. Do not send anything, contact the
+   client, change any file or list, or judge whether a document is enough.
+   Here is the request list: [paste your list with document, period,
+   required yes or no, due date]. Here is what the client has delivered:
+   [paste file names, dates received, period covered, readable yes or no].
+   Here are the client's messages: [paste emails or call notes]. Today's
+   date is [date]. For each request row, mark it Received, Incomplete,
+   Mentioned only or Missing, and say what is short. List files that were
+   sent but not requested. Write a short follow-up draft to the client,
+   marked as not sent. End with the questions only the manager can answer.
+   If anything is unclear, ask me first.
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes out, with invented data:
